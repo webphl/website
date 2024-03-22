@@ -1,8 +1,7 @@
 <div align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <a href="https://webphl.com"><img alt="webphl logo" src="https://webphl.vercel.app/images/logo/logo.svg" alt="webphl.com" width="300"></a>
-  <h1>👋 Welcome to WebPhL Website!</h1>
+  <a href="https://webphl.com"><img alt="webphl logo" src="https://webphl.vercel.app/images/logo/logo.svg" alt="webphl.com" width="350"></a>
+  <h1>Welcome to WebPhL Website! 👋</h1>
 </div>
-[WebPhL Logo](https://webphl.vercel.app/images/logo/logo.svg)
 
 This is the repo for the [webphl.com](https://webphl.com) website, a resource for the WebPhL community. The site's purpose is to _“Be the best portal to WebPhL for our growing global community"_ - read more about what this means [here](https://webphl.com/fr/about/).
 
