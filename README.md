@@ -49,7 +49,7 @@ If you're ready to contribute and create your PR, it will help to set up a local
 If this is your first time forking our repo, this is all you need to do for this step:
 
 ```sh
-git clone git@github.com:[your_github_handle]/ethereum-org-website.git && cd ethereum-org-website
+git clone git@github.com:[your_github_handle]/webphl-website.git && cd webphl-website
 ```
 
 If you've already forked the repo, you'll want to ensure your fork is configured and that it's up to date. This will save you the headache of potential merge conflicts.
