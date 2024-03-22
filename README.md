@@ -1,5 +1,5 @@
 <div align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <a href="https://webphl.com"><img alt="webphl logo" src="https://webphl.vercel.app/images/logo/logo.svg" alt="webphl.com" width="125"></a>
+  <a href="https://webphl.com"><img alt="webphl logo" src="https://webphl.vercel.app/images/logo/logo.svg" alt="webphl.com" width="300"></a>
   <h1>👋 Welcome to WebPhL Website!</h1>
 </div>
 [WebPhL Logo](https://webphl.vercel.app/images/logo/logo.svg)
