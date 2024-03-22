@@ -3,6 +3,7 @@ import { initReactI18next } from "react-i18next"
 
 export const baseLocales = {
   en: { title: "English", left: "En" },
+  fr: { title: "French", left: "Fr" },
   zh: { title: "中国人", left: "Zh" },
   ru: { title: "Русский", left: "Ru" },
   uk: { title: "українська", left: "Uk" },
